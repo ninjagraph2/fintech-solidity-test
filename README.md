@@ -31,7 +31,7 @@ cargo install --path ./crates/chisel --profile release --force --locked
 и [solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
 для проверки синтаксиса, возможности деплоя контрактов и вывода логов об ошибках.
 
-Если lib не подтягивается автоматически, нужно сделать следующее:
+Если lib не подтягивается автоматически, нужно выполнить следующие команды в терминале VSCode:
 ```
 git add .
 git commit -m "Initial commit"
